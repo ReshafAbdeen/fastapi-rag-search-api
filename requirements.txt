@@ -1,0 +1,23 @@
+# LangChain Core Ecosystem
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# LLM Providers
+langchain-google-genai
+langchain-groq
+langchain-openai
+
+# Embeddings & Vector Stores
+sentence-transformers
+chromadb
+faiss-cpu
+typesense
+
+# PDF Processors
+pypdf
+pymupdf
+
+# Utilities
+python-dotenv

@@ -1,0 +1,31 @@
+# Python-generated files & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual Environments (Aapka custom environment folder)
+.venv
+.venv-1/
+venv/
+ENV/
+
+# Environment Variables & Secret API Keys (VERY IMPORTANT)
+.env
+.env.*
+
+# Local Vector Databases & Indexes
+faiss_store/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
