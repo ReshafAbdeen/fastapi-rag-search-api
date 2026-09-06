@@ -21,3 +21,7 @@ pymupdf
 
 # Utilities
 python-dotenv
+
+fastapi
+uvicorn
+pydantic
